@@ -9,4 +9,14 @@ body {
     padding: 20px;
     text-align: center;
   }
-  
+  .container {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 20px;
+  }
+  .recipe-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+    
