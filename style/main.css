@@ -28,4 +28,9 @@ body {
     border-radius: 5px;
     overflow: hidden;
   }
+  .recipe-item img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
   
