@@ -19,4 +19,13 @@ body {
     margin: 0;
     padding: 0;
   }
-    
+  .recipe-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(80, 59, 59, 0.2);
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
